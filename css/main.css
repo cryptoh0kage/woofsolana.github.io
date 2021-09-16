@@ -2557,6 +2557,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .home-about-right h1 {
   margin-left: -130px;
   font-weight: 700;
+  padding-top: 15px;
 }
 
 @media (max-width: 991px) {
