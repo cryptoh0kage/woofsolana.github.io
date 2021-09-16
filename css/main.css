@@ -2443,7 +2443,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-area {
   display: flex;
   height: 100vh;
-  background-image: url(/woof/img/banner2.jpg);
+  background-image: url(/img/banner2.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
